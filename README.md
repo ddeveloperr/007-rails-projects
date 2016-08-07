@@ -1,4 +1,5 @@
 == README
+=========
 
 Building a forum app that's going to use the [CanCanCan](https://github.com/CanCanCommunity/cancancan) gem to restrict the resources and actions a given user is allowed to perform.
 
